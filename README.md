@@ -2,7 +2,7 @@
 webView detection module for handling when sharing a web app to Messenger via URL and a webView opens。
 
 （課題）
-x.com アプリはUA判定できず。　Androidではpopupもできるため判定が困難。iOSではoauth popupがブロックされる
+x.com,telegram アプリはUA判定できず。　Androidではpopupもできるため判定が困難。iOSではoauth popupがブロックされる
 
 対応状況
 | メッセンジャー | UAテスト | iOS | Android | 実装など |
